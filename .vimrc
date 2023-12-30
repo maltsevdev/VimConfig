@@ -24,6 +24,8 @@ Plug 'ryanoasis/vim-devicons'
 
 Plug 'tc50cal/vim-terminal' 
 
+Plug 'bfrg/vim-cpp-modern'
+
 call plug#end()
 
 syntax on
