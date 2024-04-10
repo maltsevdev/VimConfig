@@ -97,3 +97,27 @@ let g:airline_right_alt_sep = ''
 let g:airline_symbols.branch = ''
 let g:airline_symbols.readonly = ''
 let g:airline_symbols.linenr = ''
+
+
+
+
+
+
+{
+    "workbench.productIconTheme": "icons-carbon",
+    "workbench.editor.enablePreview": false,
+    "editor.minimap.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "haskell.manageHLS": "PATH",
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+    "workbench.sideBar.location": "right",
+    "explorer.confirmDelete": false,
+    "workbench.settings.applyToAllProfiles": [
+    
+
+
+    ],
+    "editor.tabSize": 4
+}
